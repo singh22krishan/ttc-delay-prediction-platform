@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+node_modules/
+dist/
+server/model_artifacts/*.pkl
+server/model_artifacts/*.csv
+server/model_artifacts/*.json
+aiProject/outputs/
+dataset/
+.DS_Store
