@@ -1,5 +1,7 @@
 # TTC Delay Prediction Platform
 
+[![Python Tests](https://github.com/singh22krishan/ttc-delay-prediction-platform/actions/workflows/tests.yml/badge.svg)](https://github.com/singh22krishan/ttc-delay-prediction-platform/actions/workflows/tests.yml)
+
 A full-stack machine-learning platform for predicting Toronto Transit Commission delay intensity by vehicle type, time context, and geographic location. The project combines a reproducible ML training workflow, FastAPI inference service, and React/TypeScript heatmap client.
 
 ## Portfolio Context
